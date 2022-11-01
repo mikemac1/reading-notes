@@ -2,7 +2,9 @@
 
 This site holds all notes for Code Fellows' courses. My current course is Code 301: Intermediate Software Development. This will be a best effort to preview the next day's activities, record a summary of what I have read and record what I have questions on or challenges to understanding.
 
-## Code 301 Table of Contents
+## Code 401 - Advanced Software Development (Still to come)
+
+## Code 301 - Intermediate Software Development
 
 - [Reading Assignment 01](/code-301/notYet.md)
 - [Reading Assignment 02](/code-301/notYet.md)
@@ -20,7 +22,7 @@ This site holds all notes for Code Fellows' courses. My current course is Code 3
 - [Reading Assignment 14](/code-301/notYet.md)
 - [Reading Assignment 15](/code-301/notYet.md)
 
-## Code 201 Table of Contents
+## Code 201 - Foundations of Software Development
 
 - [Reading Assignment 01](/code-201/class-01.md)
 - [Reading Assignment 02](/code-201/class-02.md)
@@ -38,7 +40,7 @@ This site holds all notes for Code Fellows' courses. My current course is Code 3
 - [Reading Assignment 14](/code-201/class-14.md)
 - [Reading Assignment 15](/code-201/class-15.md)
 
-## Code 102 Table of Contents
+## Code 102 - Intro to Software Development
 
 - [102 Home Page](/code-102/README.md)
 - [Reading Assignment 01](/code-102/first-markdown.md)
@@ -59,6 +61,6 @@ This site holds all notes for Code Fellows' courses. My current course is Code 3
 
 ## My Personal Experience So Far
 
-I am currently drinking from the coding *Firehose*. I need to be better about trying to be perfect with everything. It is not allowing me to grow with what I truly need to learn, how to code. This collection of notes from 301 & 401 will be a "best effort" and not spend hours upon hours of wasting my time with trying to read articles over and over again to "get" the material and answer questions in my own words.
+I am currently drinking from the coding *Firehose*. I need to be better about trying to be perfect with everything. It is not allowing me to grow with what I truly need to learn, how to code. This collection of notes going forward for 301 & 401 will be a "best effort" and not spend hours upon hours of wasting my time with trying to read articles over and over again to "get" the material and answer questions in my own words.
 
 ![This is an image of a computer screen](/code-201/matrix.jpg)
