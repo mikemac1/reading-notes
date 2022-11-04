@@ -6,7 +6,7 @@ This site holds all notes for Code Fellows' courses. My current course is Code 3
 
 ## Code 301 - Intermediate Software Development
 
-- [Reading Assignment 01](/code-301/notYet.md)
+- [Reading Assignment 01](/code-301/class-01.md)
 - [Reading Assignment 02](/code-301/notYet.md)
 - [Reading Assignment 03](/code-301/notYet.md)
 - [Reading Assignment 04](/code-301/notYet.md)
