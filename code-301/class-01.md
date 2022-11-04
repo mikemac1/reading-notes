@@ -1,4 +1,4 @@
-# Class01
+# Reading Assignment 01 - Code 301
 
 ## Why This Matters
 
