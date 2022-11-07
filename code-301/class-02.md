@@ -2,6 +2,8 @@
 
 ## Why This Matters
 
+Having an understanding of how hooks for when certain events take place during the component lifecycle of React is important to understand. It allows the developer to control the flow of data which can have items appear, hide or change based on an event versus the way the code reads.
+
 ## Based off the diagram, what happens first, the `render` or the `componentDidMount`?
 
 `Render` occurs before `componentDidMount`.
@@ -36,6 +38,8 @@ React re-renders a component when a call is made to the setState function to cha
 In React, state can be used for storing that data which may be a string, number, or any complex object.
 
 ## Things I want to know more about
+
+Being able to see React state and props in action will help a lot. Right now the material is all a blur as I don't really have an understanding.
 
 ## Sources To Cite
 
