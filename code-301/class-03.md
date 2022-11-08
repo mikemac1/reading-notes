@@ -2,6 +2,8 @@
 
 ## Why This Matters
 
+It is obvious that React **REALLY** builds on the fundamentals of JS. I am so screwed.
+
 ## What does `.map()` return?
 
 The map method receives a function as a parameter. Then it applies it on each element and returns an entirely new array populated with the results of calling the provided function. This means that it returns a new array that contains an image of each element of the array. It will always return the same number of items.
@@ -49,13 +51,30 @@ Here is an example of using the spread operator to combine two objects into one:
 
 ## In the video, what is the first step that the developer does to pass functions between components?
 
+The narrator created an increment arrow function.
+
 ## In your own words, what does the `increment` function do?
 
+After watching the video five times I really don't understand what it is going on but it appears it increments the counter and sets the "state" for that specific person selected when add is pushed.
+
 ## How can you pass a method from a parent component into a child component?
+
+Again I don't understand. It appears he uses `this.props.method name` to pass the method.
 
 ## How does the child component invoke a method that was passed to it from a parent component?
 
 ## Things I want to know more about
+
+This is really going too fast. I don't know what I am doing and have even less of a clue how to build a function. Here is a list of things that I have to figure out a minimum or I am done:
+
+- Arrow functions
+- map()
+- eachFor()
+- React
+- what is a component
+- props
+- state
+- constructors
 
 ## Sources To Cite
 
