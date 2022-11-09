@@ -1,6 +1,6 @@
 # Reading Notes
 
-This site holds all notes for Code Fellows' courses. My current course is Code 301: Intermediate Software Development. This will be a best effort to preview the next day's activities, record a summary of what I have read and record what I have questions on or challenges to understanding.
+This site holds all notes for Code Fellows' courses. My current course is Code 301: Intermediate Software Development. This will be a best effort or copied & pasted to preview the next day's activities, record a summary of what I have read and write down what I have questions on or challenges to understanding.
 
 ## Code 401 - Advanced Software Development (Still to come)
 
