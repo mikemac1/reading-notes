@@ -2,6 +2,8 @@
 
 ## Why This Matters
 
+Understanding the "requirements" for an app gives the team of developers a clear goal of what to work to. Building with creeping requirements makes the target a moving goal.
+
 ## What is the `single responsibility principle` and how does it apply to components?
 
 The single responsibility principle is when a component should only do one thing and if its responsibility or funcationality ends up growing, it should be broken up into smaller subcomponents.
@@ -43,6 +45,8 @@ This means when m is greater than n, return m.
 The map method transforms an array by applying a function to all of its elements and building a new array from the returned values. It is using its function to search thru an array and apply a given function or condition to return.
 
 ## Things I want to know more about
+
+Higher order functions "feels" like callback functions but I am not sure?
 
 ## Sources To Cite
 
