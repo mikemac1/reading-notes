@@ -47,7 +47,7 @@ Node allows developers to write JavaScript code that runs directly in a computer
 
 ## In your experience, which of these reasons have you found most beneficial?
 
-Most definitely learning from fellow students. I have been VERY lucky in getting paired with a student who was much better than me at coding and got to learn from them.
+Most definitely learning from fellow students. I have been so lucky in getting paired with students who were much better than me at coding and got to learn from them.  EVERY student in this class has something to offer in teaching me something.  Thank you fellow colleagues!!!
 
 ## How does pair programming work?
 
