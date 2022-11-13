@@ -12,7 +12,7 @@ This site holds all notes for Code Fellows' courses. My current course is Code 3
 - [Reading Assignment 04](/code-301/class-04.md)
 - [Reading Assignment 05](/code-301/class-05.md)
 - [Reading Assignment 06](/code-301/class-06.md)
-- [Reading Assignment 07](/code-301/notYet.md)
+- [Reading Assignment 07](/code-301/class-07.md)
 - [Reading Assignment 08](/code-301/notYet.md)
 - [Reading Assignment 09](/code-301/notYet.md)
 - [Reading Assignment 10](/code-301/notYet.md)
