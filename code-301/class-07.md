@@ -2,6 +2,8 @@
 
 ## Why This Matters
 
+I'm excited to get to play with APIs as it is something I have really wanted to do and I'm nervous because I want to "get it" immediately. The latter is probably not going to happen but being able to manipulate data from a database in an app is something I have always wanted to do and why I have wanted to code.
+
 ## Who is Roy Fielding?
 
 Roy Fielding is one of the primary authors of the HTTP specification and the Representational State Transfer (REST) architectural style of the web.
@@ -47,6 +49,8 @@ Yes - [Login with key](https://www.yelp.com/developers/v3/manage_app?app_created
 No requires an app URL.
 
 ## Things I want to know more about
+
+Being able to create a site that can display filtered data via an API.
 
 ## Sources To Cite
 
