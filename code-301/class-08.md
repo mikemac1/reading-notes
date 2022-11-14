@@ -2,6 +2,8 @@
 
 ## Why This Matters
 
+Understanding the necessity of how a protocol works between a client and a server allows for an application to be supported from multiple enviornments and allows for greater use of the applications.
+
 ## What does REST stand for?
 
 Representational State Transfer (REST) is an architectural approach to designing web services. REST is independent of any underlying protocol and is not necessarily tied to HTTP. However, most common REST API implementations use HTTP as the application protocol, and this guide focuses on designing REST APIs for HTTP.
@@ -49,6 +51,8 @@ If a POST method creates a new resource, it returns HTTP status code 201 (Create
 If the delete operation is successful, the web server should respond with HTTP status code 204 (No Content), indicating that the process has been successfully handled, but that the response body contains no further information.
 
 ## Things I want to know more about
+
+What are the requisite JS components for building a site utilizing an API and are there different templates for developers to use?
 
 ## Sources To Cite
 
