@@ -4,7 +4,7 @@
 
 Working in databases allows large amounts of data to be stored for later use and building an understanding of how business processes are performing. Getting this understanding will be key in knowing what database structure is best for implementing.
 
-## Fill in the chart below with five differences between SQL and NoSQL databases:
+## Fill in the chart below with five differences between SQL and NoSQL databases
 
 | SQL | NoSql |
 | --- | --- |
@@ -92,4 +92,3 @@ I'm interested to know how to implement MongoDB as I'm definitely excited and wa
 - [Relational Databases](https://www.ibm.com/cloud/learn/relational-databases)
 
 - [Database Schema](https://www.ibm.com/cloud/learn/database-schema)
-
